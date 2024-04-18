@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\navia\\Downloads\\Programacion web2\\practica2\\mvcProyectoWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A80A3966-0226-421B-8442-BB7CB2CE5BAF}|mvcProyectoWeb.csproj|c:\\users\\navia\\downloads\\programacion web2\\practica2\\mvcproyectoweb\\views\\shared\\_vistacrearvolver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A80A3966-0226-421B-8442-BB7CB2CE5BAF}|mvcProyectoWeb.csproj|solutionrelative:views\\shared\\_vistacrearvolver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80A3966-0226-421B-8442-BB7CB2CE5BAF}|mvcProyectoWeb.csproj|c:\\users\\navia\\downloads\\programacion web2\\practica2\\mvcproyectoweb\\areas\\admin\\views\\almacenes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A80A3966-0226-421B-8442-BB7CB2CE5BAF}|mvcProyectoWeb.csproj|solutionrelative:areas\\admin\\views\\almacenes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80A3966-0226-421B-8442-BB7CB2CE5BAF}|mvcProyectoWeb.csproj|c:\\users\\navia\\downloads\\programacion web2\\practica2\\mvcproyectoweb\\areas\\admin\\views\\almacenes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A80A3966-0226-421B-8442-BB7CB2CE5BAF}|mvcProyectoWeb.csproj|solutionrelative:areas\\admin\\views\\almacenes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A80A3966-0226-421B-8442-BB7CB2CE5BAF}|mvcProyectoWeb.csproj|c:\\users\\navia\\downloads\\programacion web2\\practica2\\mvcproyectoweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A80A3966-0226-421B-8442-BB7CB2CE5BAF}|mvcProyectoWeb.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 165,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_VistaCrearVolver.cshtml",
+              "DocumentMoniker": "C:\\Users\\navia\\Downloads\\Programacion web2\\practica2\\mvcProyectoWeb\\Views\\Shared\\_VistaCrearVolver.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_VistaCrearVolver.cshtml",
+              "ToolTip": "C:\\Users\\navia\\Downloads\\Programacion web2\\practica2\\mvcProyectoWeb\\Views\\Shared\\_VistaCrearVolver.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_VistaCrearVolver.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T01:38:37.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\navia\\Downloads\\Programacion web2\\practica2\\mvcProyectoWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\navia\\Downloads\\Programacion web2\\practica2\\mvcProyectoWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFcAAAAAlJmZmRkmwGgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T00:32:32.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\navia\\Downloads\\Programacion web2\\practica2\\mvcProyectoWeb\\Areas\\Admin\\Views\\Almacenes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Almacenes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\navia\\Downloads\\Programacion web2\\practica2\\mvcProyectoWeb\\Areas\\Admin\\Views\\Almacenes\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Almacenes\\Create.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAUwCoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T00:26:19.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\navia\\Downloads\\Programacion web2\\practica2\\mvcProyectoWeb\\Areas\\Admin\\Views\\Almacenes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Almacenes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\navia\\Downloads\\Programacion web2\\practica2\\mvcProyectoWeb\\Areas\\Admin\\Views\\Almacenes\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Almacenes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T23:46:13.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
